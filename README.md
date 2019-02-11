@@ -1,0 +1,2 @@
+# mykado
+mykadoのサイトです
