@@ -1,11 +1,10 @@
 body {
   margin: 0;
   font-family: sans-serif;
-  background-color: lightyellow;
 }
 
 header {
-  background-color: lightgreen;
+  background-color: #12BFA7;
   height: 100px;
   width: 100%;
   margin: 0;
@@ -20,6 +19,7 @@ header li {
   padding-top: 20px;
   padding-left: 20px;
   display: inline-block;
+  color: white;
 }
 
 .title {
@@ -28,7 +28,6 @@ header li {
 }
 
 main {
-  background-color: lightyellow;
   margin: 0;
   padding: 0;
 }
@@ -210,7 +209,7 @@ td :active{
 }
 
 footer {
-  background-color: lightgreen;
+  background-color: #12BFA7;
   height: 80px;
   margin: 0;
   padding: 0;
@@ -241,5 +240,5 @@ footer a{
 footer p {
   padding-top: 5px;
   margin: 0;
-  color: gray;
+  color: lightgray;
 }
